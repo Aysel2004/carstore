@@ -1,0 +1,30 @@
+﻿/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Subscribe page styles */
+.subscribe-section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+    .subscribe-section h2 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+
+    .subscribe-section p {
+        font-size: 18px;
+    }
+
+/* Other specific styles for the subscribe page can be added here */
